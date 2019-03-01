@@ -18,5 +18,5 @@
 
 ## 스크린샷
 
-![incog_task](./img/incog_taskbar.png)
-![incog_task](./img/Incognito_Taskbar.gif)
+![incog_task](./img/Incognito_Taskbar.gif) ![incog_task](./img/incog_taskbar.png)
+profit!
