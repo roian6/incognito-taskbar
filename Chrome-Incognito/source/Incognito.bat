@@ -1,0 +1,1 @@
+start C:\Chrome-Incognito\source\Incognito.lnk
