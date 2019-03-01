@@ -4,7 +4,7 @@
 ## How to use
 
 1. `Chrome-Incognito` 폴더를 C 드라이브에 저장합니다.
-2. 폴더 안의 "Chrome Incognito" 바로가기를 우클릭 한 뒤 "작업 표시줄에 고정" 을 클릭하시면 됩니다!
+2. 폴더 안의 바로가기를 작업 표시줄에 고정하시면 됩니다!
 
 ## 구동 원리
 
@@ -15,3 +15,8 @@
 해당 바로가기에 아이콘을 추가하고 출력되는 창의 크기를 눈에 띄지 않게 조절하면 끝입니다!
 
 (혹은 `C:\Users\UserName\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar` 폴더 안의 작업 표시줄 관련 내용을 직접 수정해도 됩니다.)
+
+## 스크린샷
+
+![incog_task](./img/incog_taskbar.png)
+![incog_task](./img/Incognito_Taskbar.gif)
